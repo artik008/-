@@ -18,7 +18,7 @@
 
 ### 2.1. Скачивание архива со всеми необходимыми файлами
 
-По [ссылке](https://github.com/artik008/Alfa-link_1C_Directbank_via_API/archive/refs/heads/main.zip) можно скачать архив с необходимыми для тестирования файлами.
+По [ссылке](https://github.com/artik008/Alfa-link_1C_Directbank_via_1C/archive/refs/heads/main.zip) можно скачать архив с необходимыми для тестирования файлами.
 
 **Архив содержит:**
 
