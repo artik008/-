@@ -52,6 +52,10 @@
 - Адрес сервера банка: https://grampus-int.alfabank.ru/API/v1/directbank
 - Логин: directBank
 
+![alt-текст](https://github.com/artik008/Alfa-link_1C_Directbank_via_1C/blob/main/examples/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%81%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%20%D1%84%D0%B0%D0%B8%CC%86%D0%BB%D0%B0.png "Настройки обмена с банком после загрузки файла")
+
+![alt-текст](https://github.com/artik008/Alfa-link_1C_Directbank_via_1C/blob/main/examples/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0%20%D1%81%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8%20%D1%84%D0%B0%D0%B8%CC%86%D0%BB%D0%B0%20-%202.png "Настройки обмена с банком после загрузки файла")
+
 Если все поля заполнены верно, значит можно продолжать настройку. Иначе необходимо повторить загрузку файла настроек и проверить, нет ли ошибок при загрузке.
 
 Если файл настроек не загружается корректно, необходимо обратиться в поддержку 1С.
